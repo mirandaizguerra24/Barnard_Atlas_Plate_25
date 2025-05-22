@@ -7,5 +7,168 @@
             "All images loaded in mirandaizguerra24/Barnard_Atlas_Plate_25 project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/002/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "002"
+                ]
+            },
+            "height": 7954,
+            "width": 7816,
+            "items": [
+                {
+                    "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/002/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/002/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/002/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 245,
+                                                "height": 249
+                                            },
+                                            {
+                                                "width": 489,
+                                                "height": 498
+                                            },
+                                            {
+                                                "width": 977,
+                                                "height": 995
+                                            },
+                                            {
+                                                "width": 1954,
+                                                "height": 1989
+                                            },
+                                            {
+                                                "width": 3908,
+                                                "height": 3977
+                                            },
+                                            {
+                                                "width": 7816,
+                                                "height": 7954
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 7816,
+                                        "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/002",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 7954
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/002/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "001"
+                ]
+            },
+            "height": 7932,
+            "width": 7807,
+            "items": [
+                {
+                    "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/001/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 244,
+                                                "height": 248
+                                            },
+                                            {
+                                                "width": 488,
+                                                "height": 496
+                                            },
+                                            {
+                                                "width": 976,
+                                                "height": 992
+                                            },
+                                            {
+                                                "width": 1952,
+                                                "height": 1983
+                                            },
+                                            {
+                                                "width": 3904,
+                                                "height": 3966
+                                            },
+                                            {
+                                                "width": 7807,
+                                                "height": 7932
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 7807,
+                                        "id": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/001",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 7932
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
