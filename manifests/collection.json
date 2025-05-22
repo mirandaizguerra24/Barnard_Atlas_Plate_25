@@ -1,0 +1,13 @@
+{
+  "id" : "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in mirandaizguerra24/Barnard_Atlas_Plate_25 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/manifests/manifest11.json",
+    "label" : "Barnard's \"A Photographic Atlas of Selected Regions of the Milky Way,\" Plate 25 (10B-255)\n"
+  } ]
+}
