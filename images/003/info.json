@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 64,
+    "height" : 48
+  }, {
+    "width" : 128,
+    "height" : 96
+  }, {
+    "width" : 256,
+    "height" : 192
+  }, {
+    "width" : 512,
+    "height" : 384
+  }, {
+    "width" : 1024,
+    "height" : 768
+  }, {
+    "width" : 2048,
+    "height" : 1535
+  } ],
+  "profile" : "level0",
+  "width" : 2048,
+  "id" : "https://mirandaizguerra24.github.io/Barnard_Atlas_Plate_25/images/003",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1535
+}
